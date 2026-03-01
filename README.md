@@ -10,9 +10,9 @@ BIOLOGICAL BACKGROUND (My Simple Explanation)
 
 DNA methylation is an epigenetic modification that can regulate gene activity without changing the DNA sequence.
 In cancer, abnormal methylation patterns can:
-Silence tumor suppressor genes
-Activate oncogenic pathways
-Reflect different tumor evolution states
+Silence tumor suppressor genes or 
+Activate oncogenic pathways or 
+Reflect different tumor evolution states.
 Therefore, clustering patients based on methylation profiles may reveal biologically distinct tumor subtypes.
 
 
